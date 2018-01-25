@@ -1,4 +1,4 @@
-Curve-Fever
+# Curve-Fever
 
 To start the game, just open main.html in your browser
 
