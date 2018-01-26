@@ -39,7 +39,7 @@ class Line{
     }
   }
 
-  display line foreach player
+  // display line foreach player
   static display_lines(player_lines){
     for (var i=0;i<player_lines.length;i++)
     {
